@@ -12,3 +12,5 @@ Explain the OTIF Performance over Time
 What is the Order delivery status over Time? 4 What are the Highest OTIF Performances?
 Do something with Key Influencers and other advanced visualizations.
 These are some of the features stakeholders want from their Data Analyst. You have to add your own creative features as well.
+
+Data:- https://docs.google.com/document/d/17SY43nnrTt6_90HrqM5NJPMmI0Bh2MVX/edit?usp=drive_link&ouid=104697448919873957518&rtpof=true&sd=true, https://drive.google.com/file/d/145wfON1B_wuTbJ0cbRgejjQRi7TbOLXt/view?usp=drive_link
